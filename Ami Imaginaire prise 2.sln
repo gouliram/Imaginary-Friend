@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ami Imaginaire prise 2", "Ami Imaginaire prise 2.vbproj", "{DEEDE6F7-961C-430F-BD0E-345AD8562256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEEDE6F7-961C-430F-BD0E-345AD8562256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEEDE6F7-961C-430F-BD0E-345AD8562256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEEDE6F7-961C-430F-BD0E-345AD8562256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEEDE6F7-961C-430F-BD0E-345AD8562256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F382FB7A-A8BD-410B-9E44-23FB2AF85652}
+	EndGlobalSection
+EndGlobal
